@@ -60,7 +60,7 @@
 - 字典树
 - 红黑树
 - 图
-- LRU
+- [LRU](./DataStructure/LRU)
 - LFU
 - Skip list
 - 字段树
