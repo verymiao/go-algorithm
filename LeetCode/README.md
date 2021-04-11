@@ -1,6 +1,6 @@
 ## LeetCode
 
-- [001.two sum](./0001.two-sum/) `数组`
+- [0001.two sum](./0001.two-sum/) `数组`
 - [0015. 三数之和](./0015.3Sum/) `数组`
 - [0080.Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [0088.Merge Sorted Array](./0088.merge-sorted-array/) `数组`
