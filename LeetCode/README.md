@@ -5,5 +5,6 @@
 - [0080.Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [0088.Merge Sorted Array](./0088.merge-sorted-array/) `数组`
 - [0781.Rabbits in Forest](./0781.rabbits-in-forest/)
-- [0922.sort-array-by-parity-ii](./0922.sort-array-by-parity-ii/) `排序`
 - [0154.寻找旋转排序数组中的最小值 II](./0154.find-minimum-in-rotated-sorted-array-ii/) `二分查找`
+- [0783.二叉搜索树节点最小距离](./0783.minimum-distance-between-bst-nodes/) `简单` `二叉树` `递归`
+- [0922.sort-array-by-parity-ii](./0922.sort-array-by-parity-ii/) `排序`
