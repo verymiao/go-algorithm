@@ -2,7 +2,8 @@
 
 - [0001.two sum](./0001.two-sum/) `简单` `数组`
 - [0011.盛最多水的容器](./0011.container-with-most-water/) `中等` `数组` `双指针`
-- [0015.三数之和](./0015.3Sum/) `数组`
+- [0015.三数之和](./0015.3Sum/) `中等` `数组`
+- [0066.加一](./0066.plus-one/) `简单` `数组`
 - [0080.Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [0088.Merge Sorted Array](./0088.merge-sorted-array/) `数组`
 - [0781.Rabbits in Forest](./0781.rabbits-in-forest/)
