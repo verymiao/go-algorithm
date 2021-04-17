@@ -65,7 +65,7 @@ func intersection(nums1 []int, nums2 []int) []int {
 排序后, 然后进行比较
 
 ~~~go
-func intersection2(nums1 []int, nums2 []int) []int {
+func intersection(nums1 []int, nums2 []int) []int {
 	sort.Ints(nums1)
 	sort.Ints(nums2)
 	res := []int{}

@@ -11,5 +11,6 @@
 - [0189. 旋转数组](./0189.rotate-array/) `中等` `数组`
 - [0283. 移动零](./0283.move-zeroes/) `简单` `数组` `双指针`
 - [0349. 两个数组的交集](./0349.intersection-of-two-arrays/) `简单` `数组`
+- [0350. 两个数组的交集Ⅱ](./0350.intersection-of-two-arrays-ii/) `简单` `数组`
 - [0783.二叉搜索树节点最小距离](./0783.minimum-distance-between-bst-nodes/) `简单` `二叉树` `递归`
 - [0922.sort-array-by-parity-ii](./0922.sort-array-by-parity-ii/) `排序`
