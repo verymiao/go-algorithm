@@ -6,7 +6,7 @@
 - [0026. 删除有序数组中的重复项](./0026.remove-duplicates-from-sorted-array/) `简单` `数组` `双指针`
 - [0027. 移除元素](./0027.remove-element/) `简单` `数组` `双指针`
 - [0066.加一](./0066.plus-one/) `简单` `数组`
-- [0080.Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [0080.Remove Duplicates from Sorted Array II](./0080.remove-duplicates-from-sorted-array-ii/README.md) `中等` `数组` `双指针`
 - [0088.Merge Sorted Array](./0088.merge-sorted-array/) `数组`
 - [0781.Rabbits in Forest](./0781.rabbits-in-forest/)
 - [0154.寻找旋转排序数组中的最小值 II](./0154.find-minimum-in-rotated-sorted-array-ii/) `二分查找`
