@@ -5,6 +5,7 @@
 - [0015.三数之和](./0015.3Sum/) `中等` `数组`
 - [0026. 删除有序数组中的重复项](./0026.remove-duplicates-from-sorted-array/) `简单` `数组` `双指针`
 - [0027. 移除元素](./0027.remove-element/) `简单` `数组` `双指针`
+- [0028. 实现 strStr()](./0028.implement-strstr/) `简单` `字符串` `KMP`
 - [0066.加一](./0066.plus-one/) `简单` `数组`
 - [0080.Remove Duplicates from Sorted Array II](./0080.remove-duplicates-from-sorted-array-ii/README.md) `中等` `数组` `双指针`
 - [0088.Merge Sorted Array](./0088.merge-sorted-array/) `数组`
