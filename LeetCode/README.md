@@ -19,3 +19,4 @@
 - [0783.二叉搜索树节点最小距离](./0783.minimum-distance-between-bst-nodes/) `简单` `二叉树` `递归`
 - [0897.递增顺序搜索树](./0897.increasing-order-search-tree/) `简单` `二叉树` `中序`
 - [0922.sort-array-by-parity-ii](./0922.sort-array-by-parity-ii/) `排序`
+- [0938.二叉搜索树的范围和](./0938.range-sum-of-bst/) `简单` `二叉树` `DFS`
