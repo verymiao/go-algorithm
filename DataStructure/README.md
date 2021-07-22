@@ -11,8 +11,8 @@
 - 字典树
 - 红黑树
 - 图
-- [LRU](./DataStructure/LRU)
+- [LRU](./LRU)
 - LFU
 - Skip list
-- 字段树
+- [字典树/前缀树](./Trie/)
 - 并查集

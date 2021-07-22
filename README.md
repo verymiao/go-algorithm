@@ -63,7 +63,7 @@
 - [LRU](./DataStructure/LRU)
 - LFU
 - Skip list
-- 字段树
+- [字典树/前缀树](./DataStructure/Trie/)
 - 并查集
 
 
