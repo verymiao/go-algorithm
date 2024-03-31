@@ -1,6 +1,6 @@
 package LRU
 
-//DlinkedNode
+// DlinkedNode
 type DlinkedNode struct {
 	key, value int
 	prev, next *DlinkedNode

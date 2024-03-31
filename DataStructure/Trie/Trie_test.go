@@ -1,4 +1,4 @@
-package Lru
+package Trie
 
 import (
 	"testing"

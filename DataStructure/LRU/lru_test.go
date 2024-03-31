@@ -1,4 +1,4 @@
-package Lru
+package LRU
 
 import (
 	"reflect"
@@ -19,7 +19,7 @@ func TestLRUCache_Put(t *testing.T) {
 		t.Logf("lru.Get(2) shoud be 2, but get: %v\n", tw1)
 		t.Fail()
 	}
-	//fmt.Println(one1)
+	// fmt.Println(one1)
 
 	if !reflect.DeepEqual(one1, -1) {
 		t.Logf("lru.Get(1) shoud be -1, but get: %v\n", one1)
